@@ -28,8 +28,6 @@ I graduated as a University Programming Technician, and I’m currently working 
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </span>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamiidev&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="TamiiDev top languages" />
-
 ### Frameworks & Libraries  
 <span>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -60,3 +58,4 @@ I graduated as a University Programming Technician, and I’m currently working 
 
 [![](https://github-readme-stats.vercel.app/api?username=tamiidev&show_icons=true&theme=tokyonight&hide_border=false&locale=en)](https://github.com/TamiiDev)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=tamiidev&theme=material-palenight&hide_border=false)](https://github.com/TamiiDev)
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamiidev&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="TamiiDev top languages" />
