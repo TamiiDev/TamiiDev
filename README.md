@@ -15,8 +15,11 @@ I graduated as a University Programming Technician, and I’m currently working 
   - ASP.NET Core MVC & Entity Framework
   - Data visualization with Chart.js
   - Frontend technologies like JavaScript
-- Outside tech, 🏋🏻‍♀️ I enjoy doing CrossFit, 🎵 listening to music, 🐱 spending time with my cats, and 🌴 exploring nature outdoors.
-- 📫 Reach out to me at: <a href="mailto:tamarasoledad.vera96@gmail.com">tamarasoledad.vera96@gmail.com</a>
+- Outside tech, 🏋🏻‍♀️ I enjoy going to the gym, 🎵 listening to music, 🐱 spending time with my cats, and 🌴 exploring nature outdoors.
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> <b> Contact Me </b>
+<a href="mailto:tamarasoledad.vera96@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tamara-soledad-vera/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -54,8 +57,7 @@ I graduated as a University Programming Technician, and I’m currently working 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </span>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-[![](https://github-readme-stats.vercel.app/api?username=tamiidev&show_icons=true&theme=tokyonight&hide_border=false&locale=en)](https://github.com/TamiiDev)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=tamiidev&theme=material-palenight&hide_border=false)](https://github.com/TamiiDev)
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamiidev&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="TamiiDev top languages" />
+## 💻<b> Top Languages </b> 
+<a href="https://github.com/TamiiDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TamiiDev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
