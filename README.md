@@ -57,7 +57,7 @@ I graduated as a University Programming Technician, and I’m currently working 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </span>
 
-## 💻<b> Top Languages </b> 
+## 💻<b> Top Languages </b>
 <a href="https://github.com/TamiiDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TamiiDev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TamiiDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
